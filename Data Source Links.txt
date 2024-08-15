@@ -1,0 +1,59 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2761
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\fswiss\fcharset0 Helvetica-Oblique;}
+{\colortbl;\red255\green255\blue255;\red255\green255\blue255;\red255\green255\blue255;\red44\green49\blue55;
+\red43\green48\blue55;}
+{\*\expandedcolortbl;;\cssrgb\c100000\c100000\c100000;\cssrgb\c100000\c100000\c99985\c0;\cssrgb\c22582\c24957\c27954;
+\cssrgb\c22353\c24706\c27843;}
+{\*\listtable{\list\listtemplateid1\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid1\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid1}}
+{\*\listoverridetable{\listoverride\listid1\listoverridecount0\ls1}}
+\margl1440\margr1440\vieww17760\viewh14860\viewkind0
+\deftab720
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sa100\partightenfactor0
+\ls1\ilvl0
+\f0\fs32 \cf2 \cb3 {\listtext	\uc0\u8226 	}\cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec4 Becker, Barry & Kohavi, Ronny (1996).\'a0
+\f1\i \cb3 \strokec4 Adult Data Set
+\f0\i0 \cb3 \strokec4 \'a0(1994) [Data set] (Census Data Data set). UCI Machine Learning Repository.\'a0{\field{\*\fldinst{HYPERLINK "https://archive.ics.uci.edu/ml/datasets/adult"}}{\fldrslt \cb3 \ul \strokec4 https://archive.ics.uci.edu/ml/datasets/adultLinks to an external site.}}\
+\ls1\ilvl0\cb3 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec4 Bogacz, Michal. (2021).\'a0
+\f1\i \cb3 \strokec4 Restaurant Business Rankings 2020
+\f0\i0 \cb3 \strokec4 \'a0[Data set]. Kaggle.\'a0{\field{\*\fldinst{HYPERLINK "https://www.kaggle.com/datasets/michau96/restaurant-business-rankings-2020"}}{\fldrslt \cb3 \ul \strokec4 https://www.kaggle.com/datasets/michau96/restaurant-business-rankings-2020Links to an external site.}}\
+\ls1\ilvl0\cb3 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec4 Duke University.\'a0
+\f1\i \cb3 \strokec4 Telecom churn (cell2cell)\'a0
+\f0\i0 \cb3 \strokec4 [Data set]. Kaggle.\'a0{\field{\*\fldinst{HYPERLINK "https://www.kaggle.com/datasets/jpacse/datasets-for-churn-telecom/code"}}{\fldrslt \cb3 \ul \strokec4 https://www.kaggle.com/datasets/jpacse/datasets-for-churn-telecom/codeLinks to an external site.}}\
+\ls1\ilvl0\cb3 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec4 Garnepudi, Venkatesh. (2019).\'a0
+\f1\i \cb3 \strokec4 Spam Mails Dataset.
+\f0\i0 \cb3 \strokec4 \'a0[Data set]. Kaggle.\'a0{\field{\*\fldinst{HYPERLINK "https://www.kaggle.com/datasets/venky73/spam-mails-dataset"}}{\fldrslt \cb3 \ul \strokec4 https://www.kaggle.com/datasets/venky73/spam-mails-datasetLinks to an external site.\cb3 \ulnone \strokec4 \uc0\u8232 }}\'a0\
+\ls1\ilvl0\cb3 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec4 Helliwell, J., Layard, R., & Sachs, J. (2018).\'a0
+\f1\i \cb3 \strokec4 World Happiness Report 2018
+\f0\i0 \cb3 \strokec4 \'a0[Data set]. New York: Sustainable Development Solutions Network.\'a0{\field{\*\fldinst{HYPERLINK "https://worldhappiness.report/ed/2018/"}}{\fldrslt \cb3 \ul \strokec4 https://worldhappiness.report/ed/2018/Links to an external site.}}\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sa100\partightenfactor0
+\ls1\ilvl0
+\f1\i \cf2 \cb3 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec4 Inside Airbnb Data\'a0
+\f0\i0 \cb3 \strokec4 [Data sets] (2021). Inside Airbnb.\'a0{\field{\*\fldinst{HYPERLINK "http://insideairbnb.com/get-the-data"}}{\fldrslt \cb3 \ul \strokec4 http://insideairbnb.com/get-the-dataLinks to an external site.}}\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sa100\partightenfactor0
+\ls1\ilvl0\cf2 \cb3 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec4 John Blitzer, Mark Dredze, Fernando Pereira (2007).\'a0
+\f1\i \cb3 \strokec4 Book Review Data Set [
+\f0\i0 \cb3 \strokec4 Data Set]. Biographies, Bollywood, Boom-boxes and Blenders: Domain Adaptation for Sentiment Classification. Association of Computational Linguistics (ACL).\'a0{\field{\*\fldinst{HYPERLINK "https://www.cs.jhu.edu/~mdredze/datasets/sentiment/"}}{\fldrslt \cb3 \ul \strokec4 https://www.cs.jhu.edu/~mdredze/datasets/sentiment/Links to an external site.\cb3 \ulnone \strokec4 \uc0\u8232 }}\'a0\
+\ls1\ilvl0\cb3 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec4 Kinday, Julia (2009).\'a0
+\f1\i \cb3 \strokec4 Sample of Flight Delay [Data Set]
+\f0\i0 \cb3 \strokec4 . Kaggle.\'a0{\field{\*\fldinst{HYPERLINK "https://www.kaggle.com/datasets/izumita/flight-delay-sample"}}{\fldrslt \cb3 \ul \strokec4 https://www.kaggle.com/datasets/izumita/flight-delay-sampleLinks to an external site.}}\
+\ls1\ilvl0\cb3 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec4 UCI Machine Learning (1990).\'a0
+\f1\i \cb3 \strokec4 Zoo Animal Classification [Data Set]
+\f0\i0 \cb3 \strokec4 . Kaggle.\'a0{\field{\*\fldinst{HYPERLINK "https://www.kaggle.com/datasets/uciml/zoo-animal-classification"}}{\fldrslt \cb3 \ul \strokec4 https://www.kaggle.com/datasets/uciml/zoo-animal-classificationLinks to an external site.}}\
+\ls1\ilvl0\cb3 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec4 Yann LeCun, Cortes Corinna, Christopher J.C. Burges (1994).\'a0
+\f1\i \cb3 \strokec4 MNIST Database of Handwritten Digits [Data Set].
+\f0\i0 \cb3 \strokec4 \'a0{\field{\*\fldinst{HYPERLINK "http://yann.lecun.com/exdb/mnist/"}}{\fldrslt \cb3 \ul \strokec4 http://yann.lecun.com/exdb/mnist/Links to an external site.}}\
+\ls1\ilvl0\cb3 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec4 Yasser, M (2022).\'a0
+\f1\i \cb3 \strokec4 Housing Prices Data Set [Data Set].\'a0
+\f0\i0 \cb3 \strokec4 Kaggle.\'a0{\field{\*\fldinst{HYPERLINK "https://www.kaggle.com/datasets/yasserh/housing-prices-dataset"}}{\fldrslt \cb3 \ul \strokec4 https://www.kaggle.com/datasets/yasserh/housing-prices-dataset}}\cf5 \cb1 \strokec5 \
+}
